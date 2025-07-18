@@ -1,0 +1,2 @@
+# Deforestration_fire_detection
+Aicte internship
